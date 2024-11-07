@@ -1,5 +1,5 @@
 {
-  "originHash" : "d81369b07c465929b0b3fd13016e5c0961589d560ac2f7fad59b6a70316016d4",
+  "originHash" : "1e4f4beb9ffad8b34322d83c6320b2b38ab48147cc9969c1c2ffb57a91172818",
   "pins" : [
     {
       "identity" : "graphiti",
@@ -22,7 +22,7 @@
     {
       "identity" : "rxswift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/clackary/RxSwift.git",
+      "location" : "https://github.com/PassiveLogic/RxSwift.git",
       "state" : {
         "revision" : "b5a0ba4d488ded8813cde51c7d49d7ad6cb56372",
         "version" : "6.8.1-pl.1"
